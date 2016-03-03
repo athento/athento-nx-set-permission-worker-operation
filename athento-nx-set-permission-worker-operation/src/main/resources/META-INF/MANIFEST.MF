@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Require-Bundle: org.nuxeo.runtime
+Bundle-Vendor: Athento
+Bundle-Version: 1.0
+Bundle-Name: Athento NX Set Document ACE as Worker
+Bundle-ManifestVersion: 2
+Nuxeo-Component: OSGI-INF/operations-contrib.xml
+Created-By: Athento
+Bundle-SymbolicName: athento-nx-set-permission-worker-operation
+
